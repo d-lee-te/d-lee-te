@@ -5,8 +5,6 @@ I'm David, and this is my github page!
 
 Specifically, I graduated with specializations (aka threads) in Devices and Intelligence!
 
-I also enjoy learning new programming languages and seeing what I can build with them!
-
 ### Here, you'll see:
 - [My personal website](https://d-lee-te.github.io/) (which is currently being hosted on gitpages for now)
 - Personal projects
