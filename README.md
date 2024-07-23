@@ -13,6 +13,6 @@ Specifically, I graduated with specializations (aka threads 🧵) in Devices and
 ### Currently
 I'm organizing my page and parsing my old class material/files/assignments, so I can put them on my page.
 
-So excuse the dust! 🧹
+So excuse the dust! 🧹💨
 
 Feel free to contact me! ✉️
