@@ -1,7 +1,8 @@
 ## Hey there! ✨
 I'm David, and this is my github page!
 
-I'm a graduate from Georgia Tech with a B.A. in CS.
+🎓 I'm a graduate from Georgia Tech with a B.A. in CS.
+
 Specifically, I graduated with specializations (aka threads) in Devices and Intelligence!
 
 ### Here, you'll see:
