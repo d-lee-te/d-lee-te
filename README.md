@@ -10,4 +10,7 @@ Specifically, I graduated with specializations (aka threads 🧵) in Devices and
 - Personal projects
 - Some of my old school assignments and projects with most of it redacted or omitted and replaced with synopses (I made the actual code private)
 
+### Currently
+I'm organizing my page and parsing my old class material/files/assignments, so I can put them on my page.
+
 Feel free to contact me! ✉️
