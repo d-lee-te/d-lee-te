@@ -10,4 +10,4 @@ Here, you'll see:
 - Personal projects
 - Some of my old school assignments and projects with most of it redacted or omitted and replaced with synopses (I made the actual code private)
 
-Feel free to contact me at my email!
+Feel free to contact me!
