@@ -17,6 +17,6 @@ You check out if any progress has been made on the project [here](https://lpp.dl
 
 Outside of these two, I have plans to refactor my site, but that'll happen when it happens xpp
 
-If you tried to access my old page hosted on gitpages, sorry about that!
+**If you tried to access my old page hosted on gitpages, sorry about that!**
 
 Feel free to contact me! ✉️
