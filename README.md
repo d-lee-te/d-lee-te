@@ -13,5 +13,6 @@ Specifically, I graduated with specializations (aka threads 🧵) in Devices and
 
 ### Currently:
 Still working on [this](https://github.com/dpvb/meep-site) a little bit, but I've start working on a League of Legends stat tool, but I can't make that repo public yet until I get my personal api key :D
+You check out if any progress has been made on the project [here](https://lpp.dleete.dev/)!
 
 Feel free to contact me! ✉️
