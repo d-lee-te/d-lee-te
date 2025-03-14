@@ -6,7 +6,7 @@ I'm David, and this is my github page!
 Specifically, I graduated with specializations (aka threads 🧵) in Devices and Intelligence!
 
 ### Here, you'll see:
-- [My personal website](https://www.dleete.dev/) and [the repo](https://github.com/d-lee-te/d-lee-te-website/tree/main)
+- [My personal website](https://www.dleete.dev/) and [the repo](https://github.com/d-lee-te/d-lee-te-website/tree/main) (I took the website down for time now sorry haha)
 - Personal projects
   - I've been absolutely obsessed with helping build out the front-end of [the meep stats site](https://github.com/dpvb/meep-site)! (click the cats!)
 - Some of my old school assignments, projects, and classes with most of it redacted or omitted and replaced with synopses (I made the actual code private)
