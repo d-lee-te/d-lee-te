@@ -1,22 +1,17 @@
 ## Hey there! ✨
 I'm David, and this is my github page!
 
-🎓 I'm a graduate from Georgia Tech with a B.S. in CS.
+🎓 I'm a SWE from Georgia Tech with a B.S. in CS! (hahaha)
 
 Specifically, I graduated with specializations (aka threads 🧵) in Devices and Intelligence!
 
 ### Here, you'll see:
-- [My personal website](https://www.dleete.dev/) and [the repo](https://github.com/d-lee-te/d-lee-te-website/tree/main) (I took the website down for time now sorry haha)
-- Personal projects
-  - I've been absolutely obsessed with helping build out the front-end of [the meep stats site](https://github.com/dpvb/meep-site)! (click the cats!)
-- Some of my old school assignments, projects, and classes with most of it redacted or omitted and replaced with synopses (I made the actual code private)
+Just some of my personal projects and scripts-
+I'm particularly fond of the front-end that I helped build for a group discord bot of ours which you can find here at [the meep stats site](https://github.com/dpvb/meep-site)! (click the cats!)
 
 ### Currently:
-Still working on [this](https://github.com/dpvb/meep-site) a little bit, but I've start working on a League of Legends stat tool, but I can't make that repo public yet until I get my personal api key :D
-You check out if any progress has been made on the project [here](https://lpp.dleete.dev/)!
+I've cleaned up some of my github page, and I'm still adjusting to my life as a newer software dev :D
 
-Outside of these two, I have plans to refactor my site, but that'll happen when it happens xpp
+I have some ideas that I plan to build out when I have more spare time!
 
-**If you tried to access my old page hosted on gitpages, sorry about that!**
-
-Feel free to contact me! ✉️
+Thanks for stopping by!
