@@ -6,8 +6,8 @@ I'm David, and this is my github page!
 Specifically, I graduated with specializations (aka threads 🧵) in Devices and Intelligence!
 
 ### Here, you'll see:
-Just some of my personal projects and scripts-
-I'm particularly fond of the front-end that I helped build for a group discord bot of ours which you can find here at [the meep stats site](https://github.com/dpvb/meep-site)! (click the cats!)
+Just some of my personal projects and scripts!
+
 
 ### Currently:
 I've cleaned up some of my github page, and I'm still adjusting to my life as a newer software dev :D
